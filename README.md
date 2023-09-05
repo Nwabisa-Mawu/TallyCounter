@@ -1,4 +1,4 @@
-﻿Counter WebApp
+# ﻿Counter WebApp
 
 This is a counter web application that allows you to count upto 10/-10. I created it as part of my React lessons where I am converting projects I did in vanilla JS to Reactjs projects.
 
